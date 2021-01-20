@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://colorlessred.github.io/blog-private/sitemap.xml
