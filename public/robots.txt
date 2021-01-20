@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://synthetictruth.com/blog/sitemap.xml
