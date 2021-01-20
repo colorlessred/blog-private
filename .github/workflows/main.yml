@@ -4,7 +4,7 @@ name: Build and deploy GH Pages
 jobs:
   build:
     name: shalzz/zola-deploy-action
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
     # Checkout
     - uses: actions/checkout@master
